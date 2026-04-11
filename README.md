@@ -1,6 +1,6 @@
 ## olá eu sou LucasGabriel144👋
 
-- 🌱 Estudando Html Css ...
+- 🌱 Estudando Html / Css ...
 
 - primeiro Projeto Tela de Login com HTML e CSS
 
