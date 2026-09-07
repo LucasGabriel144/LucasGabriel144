@@ -1,6 +1,6 @@
 ## olá eu sou LucasGabriel144👋
 
-- 🌱 desenvolvimento em front-end > ...
+- 🌱  desenvolvedor full stack > ...
 
 - 1* Projeto Tela de Login com HTML e CSS
 
